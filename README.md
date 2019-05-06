@@ -16,6 +16,8 @@ If the blue ball hits the red ball, the blue ball will become random color and b
 "If"
 "rotation"
 
+Link of the game: https://editor.p5js.org/irene0318/sketches/awHcPeJYF
+
 
 Include what types of inputs/outputs/data it will use. You can also upload an image with a diagram showing how all those pieces are connected.
 
