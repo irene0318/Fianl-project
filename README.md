@@ -18,7 +18,7 @@ If the blue ball hits the red ball, the blue ball will become random color and b
 
 Link of the game: https://editor.p5js.org/irene0318/sketches/awHcPeJYF
 
-Get to the game by your phone: https://github.com/irene0318/Fianl-project/blob/master/Screen%20Shot%202019-05-05%20at%2017.48.16.png
+Get to the game by your phone (scan the QRcode): https://github.com/irene0318/Fianl-project/blob/master/Screen%20Shot%202019-05-05%20at%2017.48.16.png
 
 
 Include what types of inputs/outputs/data it will use. You can also upload an image with a diagram showing how all those pieces are connected.
